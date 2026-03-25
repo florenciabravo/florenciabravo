@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Florencia Bravo
 
-🎯 **Software Developer | Backend Developer (Java + Spring Boot)**  
+🎯 **Software Developer | Backend Developer (Java + Spring Boot | Microservices)**  
 🌎 Based in Argentina, Cordoba | 🌐 English: Intermediate (C1) | Spanish: Native  
 📫 Contact me: [florenciabravonovillo@gmail.com](mailto:florenciabravonovillo@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/florencia-bravo-novillo)
@@ -47,7 +47,8 @@ A microservices-based backend system that simulates a digital banking platform, 
 **Tech Stack:**  
 `Java` · `Spring Boot` · `Spring Cloud` · `Eureka` · `Config Server` · `Docker` · `MySQL` · `REST APIs`
 
-👉 [Repository](https://github.com/florenciabravo/digital-money-house)
+👉 [Repository - Digital Money House ](https://github.com/florenciabravo/digital-money-house)
+
 ---
 
 ### 🏡 _Lugar de Descanso_
@@ -57,7 +58,7 @@ A full-stack web application for booking lodging (hotels, cabins, hostels) built
 **Tech Stack**:  
 `Java` · `Spring Boot` · `React` · `MySQL` · `REST APIs` · `Agile (Scrum)` · `Git`
 
-👉 [Repository](https://github.com/florenciabravo/lugar-de-descanso)
+👉 [Repository - Lugar de Descanso ](https://github.com/florenciabravo/lugar-de-descanso)
 
 ---
 
@@ -91,12 +92,12 @@ Problem-solving · Communication · Teamwork · Adaptability
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Currently Exploring
 
-- Advanced Spring Boot
-- Security with JWT
-- Clean Architecture
-- React Best Practices
+- Microservices testing (unit & integration tests)
+- Spring Security with JWT and authentication flows
+- Resilience patterns and fault tolerance in distributed systems
+- Clean Architecture applied to microservices
 
 ## 🧠 What I'm Focused On
 
