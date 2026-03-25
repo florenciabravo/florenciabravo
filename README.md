@@ -3,26 +3,54 @@
 🎯 **Software Developer | Backend Developer (Java + Spring Boot)**  
 🌎 Based in Argentina, Cordoba | 🌐 English: Intermediate (C1) | Spanish: Native  
 📫 Contact me: [florenciabravonovillo@gmail.com](mailto:florenciabravonovillo@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/florencia-bravo-novillo) | 📁 [Capstone Project](https://github.com/florenciabravo/lugar-de-descanso)
+🔗 [LinkedIn](https://www.linkedin.com/in/florencia-bravo-novillo)
 
+**Featured Projects:**
+- 💳 [Digital Money House](https://github.com/florenciabravo/digital-money-house) — Microservices architecture with Spring Cloud & Docker
+- 🏡 [Lugar de Descanso](https://github.com/florenciabravo/lugar-de-descanso) — Full-stack booking platform (Java + React)
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **Software Developer** with a strong background in **Systems Analysis** and several years of experience in **financial services**.  
-My passion for technology and building meaningful solutions led me to transition into **backend development**, where I now specialize in:
+I'm a **Software Developer** with a strong background in **Systems Analysis** and several years of experience in **financial services**.
 
-- 🧠 **Java + Spring Boot**
-- 💻 **React (frontend basics)**
+My passion for technology and building meaningful solutions led me to transition into **backend development**, where I specialize in building **scalable backend systems using Java and Spring Boot**.
+
+I have hands-on experience designing and developing **microservices architectures**, including **service discovery, centralized configuration, and inter-service communication**, as well as:
+
+- 🧠 **Java + Spring Boot + Spring Cloud**
+- ⚙️ **Microservices & RESTful APIs**
+- 🐳 **Docker & containerized environments**
 - 🛢 **MySQL + SQL**
-- ⚙️ **RESTful APIs, layered architecture, and clean code**
-- 🧪 Agile methodologies and Git version control
+- 💻 **React (frontend basics)**
+- 🧪 **Testing, error handling, and clean code practices**
+- 🔄 **Agile methodologies and Git version control**
 
-I thrive in collaborative environments, enjoy solving real-world problems, and continuously seek to learn and grow as a developer.
+I enjoy working on real-world problems, improving system design, and continuously growing as a backend developer.
 
 ---
 
-## 🧩 Featured Project: _Lugar de Descanso_
+## 🧩 Featured Projects
+
+### 💳 _Digital Money House_
+
+A microservices-based backend system that simulates a digital banking platform, including user management, accounts, and transactions.
+
+**Key Features:**
+- 🔐 User registration with validation and error handling
+- 💰 Account creation and balance management
+- 🔄 Inter-service communication using REST
+- 🧭 Service discovery with Eureka
+- ⚙️ Centralized configuration with Spring Cloud Config
+- 🐳 Containerization with Docker
+
+**Tech Stack:**  
+`Java` · `Spring Boot` · `Spring Cloud` · `Eureka` · `Config Server` · `Docker` · `MySQL` · `REST APIs`
+
+👉 [Repository](https://github.com/florenciabravo/digital-money-house)
+---
+
+### 🏡 _Lugar de Descanso_
 
 A full-stack web application for booking lodging (hotels, cabins, hostels) built as part of my final sprint at [Digital House](https://www.digitalhouse.com/).
 
@@ -35,14 +63,20 @@ A full-stack web application for booking lodging (hotels, cabins, hostels) built
 
 ## 🛠️ Skills
 
-**Languages & Frameworks:**  
-`Java` · `Spring Boot` · `React` · `HTML` · `CSS`
+**Backend Development:**  
+`Java` · `Spring Boot` · `Spring Cloud` · `Microservices` · `REST APIs`
+
+**Architecture & Patterns:**  
+`Layered Architecture` · `Clean Architecture` · `Service Discovery` · `Config Server`
+
+**Frontend (Basic):**  
+`React` · `HTML` · `CSS`
 
 **Databases:**  
-`MySQL` · `SQL`  
+`MySQL` · `SQL`
 
-**Tools & Practices:**  
-`Git` · `Postman` · `Agile / Scrum` · `Jira`
+**DevOps, Tools & Practices:**  
+`Docker` · `Git` · `Postman` · `Jira` · `Agile / Scrum`
 
 **Soft Skills:**  
 Problem-solving · Communication · Teamwork · Adaptability
@@ -63,6 +97,12 @@ Problem-solving · Communication · Teamwork · Adaptability
 - Security with JWT
 - Clean Architecture
 - React Best Practices
+
+## 🧠 What I'm Focused On
+
+- Designing scalable microservices architectures
+- Writing clean, maintainable backend code
+- Improving system reliability and error handling
 
 ---
 
