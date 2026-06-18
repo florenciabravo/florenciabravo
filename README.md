@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Florencia Bravo
 
 🎯 **Software Developer | Backend Developer (Java + Spring Boot | Microservices)**  
-🌎 Based in Argentina, Cordoba | 🌐 English: Intermediate (C1) | Spanish: Native  
+🌎 Based in Argentina, Cordoba | 🌐 English: Upper-Intermediate (B2) | Spanish: Native  
 📫 Contact me: [florenciabravonovillo@gmail.com](mailto:florenciabravonovillo@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/florencia-bravo-novillo)
 
